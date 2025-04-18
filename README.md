@@ -3,7 +3,7 @@
 IpDefenderは、Java 8からJava 17で動作するSpigot/Paperサーバーにおいて、設定されたプレイヤーへの外部IPからの接続を防ぐプラグインです。
 
 * [ダウンロード](https://github.com/tanu-ch1111/IpDefender/releases)
-* [セットアップ](https://github.com/tanu-ch1111/IpDefender/edit/main/README.md#%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AB%E5%B0%8E%E5%85%A5%E5%BE%8C%E3%81%AE%E5%8B%95%E4%BD%9C)
+* [セットアップ](https://github.com/tanu-ch1111/IpDefender?tab=readme-ov-file#%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%ABipdefender%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 
 ## なぜこのプラグインを使うべきなのか？
 
@@ -47,7 +47,7 @@ IpLog.txtファイルに``00000000-0000-0000-0000-000000000000:00.00.00.000``の
 IpDefender is a plugin that prevents external Ip from joining a configured player running on a Spigot/Paper server from Java 8 to Java 17
 
 * [Download](https://github.com/tanu-ch1111/IpDefender/releases)
-* [Setup](https://github.com/tanu-ch1111/IpDefender/edit/main/README.md#how-to-install-ipdefender-on-your-server)
+* [Setup](https://github.com/tanu-ch1111/IpDefender?tab=readme-ov-file#how-to-install-ipdefender-on-your-server)
 
 ## Why should I use this plugin?
 
